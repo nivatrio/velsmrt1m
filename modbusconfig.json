@@ -1,0 +1,982 @@
+{
+  "inverters": [
+    {
+      "name": "olycyber-inv1",
+      "slaveId": 1,
+      "slaveType":"RTU",
+      "functionCode": 4,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+      "registers": [
+        {
+          "start": 4989,
+          "count": 19
+        },
+        {
+          "start": 5010,
+          "count": 14
+        },
+        {
+          "start": 5030,
+          "count": 6
+        },
+        {
+          "start": 5037,
+          "count": 8
+        },
+        {
+          "start": 5114,
+          "count": 2
+        },
+        {
+          "start": 5127,
+          "count": 2
+        },
+        {
+          "start": 5146,
+          "count": 2
+        }
+
+  ]
+},
+{
+  "name": "olycyber-inv2",
+  "slaveId": 2,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv3",
+  "slaveId": 1,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv4",
+  "slaveId": 4,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv5",
+  "slaveId": 1,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv6",
+  "slaveId": 6,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv7",
+  "slaveId": 7,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv8",
+  "slaveId": 8,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv9",
+  "slaveId": 9,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv10",
+  "slaveId": 10,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv11",
+  "slaveId": 11,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv12",
+  "slaveId": 12,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv13",
+  "slaveId": 13,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+  "name": "olycyber-inv14",
+  "slaveId": 14,
+  "slaveType":"RTU",
+  "functionCode": 4,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 4989,
+      "count": 19
+    },
+    {
+      "start": 5010,
+      "count": 14
+    },
+    {
+      "start": 5030,
+      "count": 6
+    },
+    {
+      "start": 5037,
+      "count": 8
+    },
+    {
+      "start": 5114,
+      "count": 2
+    },
+    {
+      "start": 5127,
+      "count": 2
+    },
+    {
+      "start": 5146,
+      "count": 2
+    }
+
+]
+},
+{
+      "name": "olycyber-load meter 1",
+      "slaveId": 15,
+      "slaveType":"RTU",
+      "functionCode": 3,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+       "registers": [
+        {
+          "start": 2699,
+          "count": 24
+        },
+        {
+          "start": 2999,
+          "count": 36
+        },
+        {
+          "start": 3035,
+          "count": 58
+        },
+        {
+          "start": 3109,
+          "count": 2
+        }
+        ,
+        {
+          "start": 3191,
+          "count": 6
+        },
+        {
+          "start": 3199,
+          "count": 52
+        },
+        {
+          "start": 3763,
+          "count": 8
+        },
+        {
+          "start": 3875,
+          "count": 8
+        }
+  ]
+},
+  {
+      "name": "olycyber-load meter 2",
+      "slaveId": 17,
+      "slaveType":"RTU",
+      "functionCode": 3,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+       "registers": [
+        {
+          "start": 2699,
+          "count": 24
+        },
+        {
+          "start": 2999,
+          "count": 36
+        },
+        {
+          "start": 3035,
+          "count": 58
+        },
+        {
+          "start": 3109,
+          "count": 2
+        }
+        ,
+        {
+          "start": 3191,
+          "count": 6
+        },
+        {
+          "start": 3199,
+          "count": 52
+        },
+        {
+          "start": 3763,
+          "count": 8
+        },
+        {
+          "start": 3875,
+          "count": 8
+        }
+  ]
+},{
+      "name": "olycyber-load meter 3",
+      "slaveId": 22,
+      "slaveType":"RTU",
+      "functionCode": 3,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+       "registers": [
+        {
+          "start": 2699,
+          "count": 24
+        },
+        {
+          "start": 2999,
+          "count": 36
+        },
+        {
+          "start": 3035,
+          "count": 58
+        },
+        {
+          "start": 3109,
+          "count": 2
+        }
+        ,
+        {
+          "start": 3191,
+          "count": 6
+        },
+        {
+          "start": 3199,
+          "count": 52
+        },
+        {
+          "start": 3763,
+          "count": 8
+        },
+        {
+          "start": 3875,
+          "count": 8
+        }
+  ]
+},
+{
+      "name": "olycyber-zedctl-1",
+      "slaveId": 1,
+      "slaveType":"RTU",
+      "functionCode": 3,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+      "registers": [
+        {
+          "start": 5007,
+          "count": 1
+        }
+
+  ]
+},
+{
+  "name": "olycyber-zedctl-2",
+  "slaveId": 2,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-3",
+  "slaveId": 3,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-4",
+  "slaveId": 4,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-5",
+  "slaveId": 5,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-6",
+  "slaveId": 6,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-7",
+  "slaveId": 7,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-8",
+  "slaveId": 8,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-9",
+  "slaveId": 9,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-10",
+  "slaveId": 10,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-11",
+  "slaveId": 11,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-12",
+  "slaveId": 12,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-13",
+  "slaveId": 13,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+},
+{
+  "name": "olycyber-zedctl-14",
+  "slaveId": 14,
+  "slaveType":"RTU",
+  "functionCode": 3,
+  "slaveIp" : "192.168.1.138",
+  "baudRate": 9600,
+  "dataBits": 8,
+  "stopBits": 1,
+  "parity": "none",
+  "registers": [
+    {
+      "start": 5007,
+      "count": 1
+    }
+
+]
+}
+]
+}
+

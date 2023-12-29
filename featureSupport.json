@@ -1,0 +1,11 @@
+{
+  "pins": [17,16],
+  "ledpins":21,
+  "customername":"olycyber",
+  "ftmodbus": "y",
+  "ftjson": "n",
+  "ftzed": "r",
+  "interval": 2,
+  "ftmqttcontrol": "n",
+  "ftbtcontrol": "n"
+}
