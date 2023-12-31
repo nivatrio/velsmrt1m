@@ -5,7 +5,7 @@
   "ftmodbus": "y",
   "ftjson": "n",
   "ftzed": "n",
-  "interval": 2,
+  "interval": 10,
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n"
 }
