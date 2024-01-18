@@ -12,7 +12,7 @@
       "parity": "none",
       "registers": [
         {
-          "start": 0,
+          "start": 30001,
           "count": 50
         }
   ]
