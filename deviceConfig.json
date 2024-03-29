@@ -2,6 +2,7 @@
       "name": "velsmrt1m",
       "deviceId": 1,
       "deviceType": "solar",
+         "debug": "y",
       "interval": 10
 }
 
